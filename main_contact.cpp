@@ -7,9 +7,9 @@
 int main(){
 	std::vector<Contact> contacts;
 
-	Contact a("Dexter", "Geraldo", "Patterson", 6382821039, "8245 Cherry Lane");
+	Contact a("Dexter", "Geraldo", "Johnson", 6382821039, "8245 Cherry Lane");
 	Contact b("Buster", "Patterson", "123 Motor Ave");
-	Contact c("Chenoa", "Chavious", "Cioffi", 1239432003, "9000 Burdett Ave");
+	Contact c("Maeve", "Anne", "Peterson", 1239432003, "9000 Burdett Ave");
 	Contact i("Iron", "Man");
 	Contact k("Penelope", "Cioffi", "345 Oak Lane);
 	Contact d;
